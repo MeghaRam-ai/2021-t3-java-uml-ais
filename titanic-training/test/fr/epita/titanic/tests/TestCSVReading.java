@@ -8,7 +8,6 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
-import fr.epita.titanic.datamodel.Passenger;
 import fr.epita.titanic.services.GenericCSVReader;
 
 public class TestCSVReading {
